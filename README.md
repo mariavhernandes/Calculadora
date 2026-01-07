@@ -19,7 +19,7 @@ This is a mobile application developed in **Android Studio** that performs basic
 
 ## 📸 Screenshots
 <p align="center">
-  <img width="250" height="auto" alt="calculadora" src="https://github.com/user-attachments/assets/924a7ec3-100f-481b-984e-4afdc9775111" />
-  <img width="250" height="auto" alt="historico" src="https://github.com/user-attachments/assets/926dcf9e-4d72-4c55-8f0e-03f4cadc56b3" />
-  <img width="250" height="auto" alt="porcentagem" src="https://github.com/user-attachments/assets/eef73bae-a7b7-48e4-bcbd-9b94fdfb3ee8" />
+  <img width="150" height="auto" alt="calculadora" src="https://github.com/user-attachments/assets/924a7ec3-100f-481b-984e-4afdc9775111" />
+  <img width="150" height="auto" alt="historico" src="https://github.com/user-attachments/assets/926dcf9e-4d72-4c55-8f0e-03f4cadc56b3" />
+  <img width="150" height="auto" alt="porcentagem" src="https://github.com/user-attachments/assets/eef73bae-a7b7-48e4-bcbd-9b94fdfb3ee8" />
 </p>
